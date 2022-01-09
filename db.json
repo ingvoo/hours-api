@@ -3,12 +3,10 @@
     {
       "id": "c802fd14-ee4e-4e73-b7d5-cbcd112c2741",
       "clientId": "7d49fc11-47b6-4139-a3bd-1b123c0e2d20",
-      "date": "2021-12-30",
+      "date": "2021-01-14",
       "task": "Develop",
       "duration": "45",
-      "description": "Setup endpoints for creating posts",
-      "user": "ingvoo",
-      "client": "7d49fc11-47b6-4139-a3bd-1b123c0e2d20"
+      "description": "Setup endpoints for creating posts"
     },
     {
       "id": "0c0c1dcc-62cb-4ed2-a633-8d1f6d1bc241",
@@ -16,9 +14,7 @@
       "date": "2021-12-26",
       "task": "Meeting",
       "duration": "30",
-      "description": "Meeting with Paul",
-      "user": "ingvoo",
-      "client": "be910dfe-4262-4065-a074-e372a99c6bc3"
+      "description": "Meeting with Paul"
     },
     {
       "id": "e7e07da7-d458-407c-b5b7-43d5c66a06db",
@@ -26,8 +22,7 @@
       "date": "2021-12-31",
       "task": "develop",
       "duration": "45",
-      "description": "Creating something",
-      "user": "ingvoo"
+      "description": "Creating something"
     }
   ],
   "clients": [
@@ -38,15 +33,13 @@
         "fex"
       ],
       "title": "My favorite Client",
-      "description": "some description",
-      "user": "ingvoo"
+      "description": "some description"
     },
     {
       "id": "be910dfe-4262-4065-a074-e372a99c6bc3",
       "projectsId": [],
       "title": "Just another client",
-      "description": "describing the client",
-      "user": "ingvoo"
+      "description": "describing the client"
     },
     {
       "id": "7144d908-6280-4289-9994-23f69808c266",
@@ -54,8 +47,7 @@
         "boz"
       ],
       "title": "New Client",
-      "description": "The description for the new client",
-      "user": "ingvoo"
+      "description": "The description for the new client"
     }
   ],
   "projects": [
@@ -67,8 +59,7 @@
       "tasksIds": [
         "baz",
         "bor"
-      ],
-      "user": "ingvoo"
+      ]
     },
     {
       "id": "fex",
@@ -77,8 +68,7 @@
       "budged": "1200",
       "tasksIds": [
         "baz"
-      ],
-      "user": "ingvoo"
+      ]
     },
     {
       "id": "boz",
@@ -87,20 +77,17 @@
       "budged": "5000",
       "tasksIds": [
         "baz"
-      ],
-      "user": "ingvoo"
+      ]
     }
   ],
   "tasks": [
     {
       "id": "baz",
-      "title": "Development",
-      "user": "ingvoo"
+      "title": "Development"
     },
     {
       "id": "bor",
-      "title": "Design",
-      "user": "ingvoo"
+      "title": "Design"
     }
   ]
 }
